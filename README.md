@@ -25,7 +25,14 @@ git clone https://github.com/DARK-RA-cyber/Full-support-
 cd Full-support-
 python SETUP.py
 ```
-
+# Tool USER NAME :â¬‡ï¸
+```
+DARK
+```
+# Tool Password:â¬‡ï¸
+```
+RA
+```
 
 
 #### SCREENSHOT: ⬇️
