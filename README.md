@@ -23,7 +23,7 @@ pkg install git
 pip install bs4
 git clone https://github.com/DARK-RA-cyber/Full-support-
 cd Full-support-
-python SETUP.py
+python setup.py
 ```
 # Tool USER NAME :â¬‡ï¸
 ```
