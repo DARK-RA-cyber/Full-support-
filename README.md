@@ -9,7 +9,6 @@
 - No Root
 - No Termux Knowlegde
 
-<p align="center"><img src="https://github.com/DARK-RA-cyber/Full-support-/blob/main/Screenshot_2025-06-07-16-58-15-875_com.termux.jpg"></p>
 
 #### INSTALL TOOL ON TERMUX: ⬇️
 ```
